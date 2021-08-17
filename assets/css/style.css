@@ -1,7 +1,7 @@
 header {
   height: 20vh;
   width: 100%;
-  background-color: #5429CC;
+  background-color: #9e8484;
 }
 
 main {
@@ -89,7 +89,7 @@ main section {
           justify-content: center;
   width: 100%;
   height: 3.75rem;
-  background-color: #5429CC;
+  background-color: #9e8484;
   color: #fff;
   text-decoration: none;
   border-radius: .5rem;
@@ -112,7 +112,7 @@ main section {
 }
 
 .links a.website-link {
-  background-color: #5429CC;
+  background-color: #f0dbd9;
 }
 
 .links a.youtube-link {
@@ -183,7 +183,7 @@ main section {
           justify-content: center;
   width: 100%;
   height: 3.75rem;
-  background-color: #5429CC;
+  background-color: #9e8484;
   color: #fff;
   text-decoration: none;
   border-radius: .5rem;
